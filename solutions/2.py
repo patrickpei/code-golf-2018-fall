@@ -1,0 +1,1 @@
+for i in range(1,999999):print(str(i)+'\n'if int(str(i)[:1])==i%10 and any([i%j==0 for j in [3,5,7]])else'',end='')

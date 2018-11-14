@@ -1,2 +1,2 @@
-answers/
-inputs/
+node_modules
+check.py

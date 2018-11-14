@@ -1,0 +1,24 @@
+{
+  "name": "code-golf-2018-fall",
+  "version": "1.0.0",
+  "description": "### Overview This competition focuses on short and succinct code.  The challenge is to produce answers to the provided problems with as little code as possible. Your score for each problem will be the file size of your source code for that problem. Your code will not be run. We will assume that your code runs. We will verify the answers your code produces. However, we will have the 1st, 2nd, and 3rd place contestants run their code live for proof that it runs and proof that it produces the correct output. Submission input will be released 10 minutes before the end of the competition; example input is supplied in each problem description. * **The actual code you submit cannot be generated text** * Your code cannot call any external processes * Your code must be able to be run independently of any other personal files (i. e. you can use standard libraries and other modules but you can't write code in another file and simply call it in your submission file)",
+  "main": "5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickpei/code-golf-2018-fall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickpei/code-golf-2018-fall/issues"
+  },
+  "homepage": "https://github.com/patrickpei/code-golf-2018-fall#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "node-fetch": "^2.3.0"
+  }
+}
